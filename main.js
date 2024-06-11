@@ -10,5 +10,5 @@ function draw(){
 }
 
 function take_snapshot(){
-    Save("applied filter image");
+    save("applied filter image");
 }
